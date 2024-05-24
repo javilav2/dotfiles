@@ -67,4 +67,4 @@
 	helper = !/usr/bin/gh auth git-credential
 [user]
 	email = javilav@unal.edu.co
-	name = Juan Avila
+	name = juan avila
